@@ -25,3 +25,9 @@ A personal list of technical English terms I am learning.
 
 - **Virtual machine**: a computer that runs inside another computer.
   Example: "I installed Ubuntu in a virtual machine."
+
+- **Digital hoarding**: the excessive accumulation of digital files and data.
+  Example: "Digital hoarding makes it difficult for users to organize their files effectively."
+
+- **Cloud storage**: remote digital storage accessed via the internet rather than local hard drives.
+  Example: "Unlimited cloud storage often encourage s people to save unnecessary files."
